@@ -3,6 +3,11 @@ header {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
+  padding: 15px 10px 15px 10px;
+}
+
+h1 {
+  font-size: 25px;
 }
 
 a {
@@ -12,20 +17,50 @@ a {
 
 li {
   text-align: right;
-  padding: 25px 50px 75px 100px;
 }
 
 nav {
-  background-color: rgb(96, 90, 90);
+  background-color: rgb(71, 61, 61);
   text-align: right;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 25px 50px 75px 100px;
+  padding: 10px 10px 10px 10px;
 }
 
-img {
+figure {
   position: left;
+  padding: 15px 15px 15px 15px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 16px;
+  text-align: left;
+  padding: 5px 5px 5px 5px;
+}
+
+aside {
+  float: right;
 }
 
 article {
+  text-align: left;
+  padding-bottom: 30px;
+  margin: 20px 550px 20px 15px;
+}
 
+footer {
+  background-color: rgb(71, 61, 61);
+  color: white;
+  font-size: 14px;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px 20px 15px 20px;
 }

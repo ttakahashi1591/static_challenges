@@ -1,0 +1,31 @@
+header {
+  background-color: #aa0000;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+a {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  text-align: right;
+  padding: 25px 50px 75px 100px;
+}
+
+nav {
+  background-color: rgb(96, 90, 90);
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 25px 50px 75px 100px;
+}
+
+img {
+  position: left;
+}
+
+article {
+
+}
